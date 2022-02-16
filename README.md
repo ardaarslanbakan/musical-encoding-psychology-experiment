@@ -1,2 +1,2 @@
 # musical-encoding-psychology-experiment
-Experiment PsychoPy code from our Research Project
+PsychoPy code from our Research Project about Musical Encoding and Recall
